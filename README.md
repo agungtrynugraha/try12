@@ -18,13 +18,6 @@ Welcome to my GitHub profile! I'm a [studen from UPI YPTK PADANG] with a passion
 
 ---
 
-### 📊 GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?try12=try12&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?try12=try12&layout=compact&theme=radical)
-
----
-
 ### 🚀 Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-%23f7df1e)
@@ -33,6 +26,3 @@ Welcome to my GitHub profile! I'm a [studen from UPI YPTK PADANG] with a passion
 
 ---
 
-### ✨ Fun Fact:
-
-![GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
