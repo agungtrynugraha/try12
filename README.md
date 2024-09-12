@@ -10,12 +10,6 @@ I'm a **[studen ]** who loves creating new things with **code**. Welcome to my G
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?agungtrynugraha=agungtrynugraha&style=flat-square&color=blue" alt="profile views" />
-</p>
-
----
-
 ### 🌟 About Me:
 
 - 🌱 Learning: **[universitas putra indonesia YPTK PADANG ]**
