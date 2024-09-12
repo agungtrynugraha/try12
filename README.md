@@ -31,9 +31,9 @@ I'm a **[studen ]** who loves creating new things with **code**. Welcome to my G
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?agungtrynugraha=agungtrynugraha&show_icons=true&theme=radical" alt="GitHub stats" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agungtrynugraha&theme=radical" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?agungtrynugraha=agungtrynugraha&layout=compact&theme=radical" alt="Top Languages" />
+ 
 </p>
 
 ---
