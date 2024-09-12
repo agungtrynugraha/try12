@@ -38,13 +38,7 @@ I'm a **[studen ]** who loves creating new things with **code**. Welcome to my G
 
 ---
 
-### 📈 Activity Graph:
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?agungtrynugraha=agungtrynugraha&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
----
 
 ### 🎨 Aesthetic Quote:
 
@@ -55,11 +49,8 @@ I'm a **[studen ]** who loves creating new things with **code**. Welcome to my G
 ---
 
 ### 😄 Fun Fact:
-> **"I can solve the Rubik's cube in under 2 minutes!"**
+> **"I can play game like valorant , pubg or mobile legend 12 hour"**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Coding GIF">
-</p>
 
 ---
 
@@ -70,7 +61,7 @@ I'm a **[studen ]** who loves creating new things with **code**. Welcome to my G
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://www.instagram.com/awww_kyahhh_?igsh=MWloNGRteGhvaXFsbA%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="instagram Badge" />
+    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="instagram Badge" />
   </a>
 </p>
 
